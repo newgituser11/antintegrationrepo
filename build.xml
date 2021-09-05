@@ -1,4 +1,4 @@
- xml version="1.0"
+<xml version="1.0">
 <project name="sample project" default="info">
 <target name="info">
 <echo>Hello World!</echo>
